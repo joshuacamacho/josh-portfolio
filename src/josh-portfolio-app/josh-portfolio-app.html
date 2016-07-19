@@ -1,18 +1,34 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <link rel="import" href="/bower_components/app-layout/app-layout.html">
+<link rel="import" href="/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
 
 <dom-module id="josh-portfolio-app">
   <template>
-    <style>
+
+    <style is="custom-style">
       :host {
         display: block;
+        height:2000px;
       }
-      app-header-layout
+      app-header{
+        background-color:#42A5F5;
+        height: 250px;
+         --app-header-background-rear-layer: {
+          background-color: #FF5722;
+        };
+      }
     </style>
+
     <app-header-layout>
-      <app-header>
+      <app-header condenses fixed effects="resize-title waterfall blend-background">
+
+
         <app-toolbar>
-          <div main-title>Josh Camacho</div>
+          <h4 condensed-title sticky>Josh Camacho</h4>
+        </app-toolbar>
+
+        <app-toolbar>
+          <h1 main-title >Josh Camacho</div>
         </app-toolbar>
       </app-header>
     </app-header-layout>
