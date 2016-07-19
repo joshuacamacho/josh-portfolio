@@ -1,0 +1,35 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="/bower_components/app-layout/app-layout.html">
+
+<dom-module id="josh-portfolio-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+      app-header-layout
+    </style>
+    <app-header-layout>
+      <app-header>
+        <app-toolbar>
+          <div main-title>Josh Camacho</div>
+        </app-toolbar>
+      </app-header>
+    </app-header-layout>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'josh-portfolio-app',
+
+      properties: {
+        prop1: {
+          type: String,
+          value: 'josh-portfolio-app',
+        },
+      },
+
+    });
+  </script>
+</dom-module>
