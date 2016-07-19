@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"make",
+				"makeHeader"
+			],
+			[
+				"button",
+				"buttongroup"
+			],
+			[
+				"new",
+				"newHeader"
+			],
+			[
+				"is",
+				"isopen"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"map",
+				"mapLabels"
+			],
+			[
+				"Cur",
+				"currentData"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ad",
+				"advanceCount"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"d",
+				"data_exploted"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"a",
+				"azimuthTable"
+			],
+			[
+				"row",
+				"rowitem"
+			],
+			[
+				"Az",
+				"azimuth-table"
+			],
+			[
+				"c",
+				"createElement"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"modu",
+				"moduleHeader"
+			],
+			[
+				"data",
+				"data_exploted"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"n",
+				"new_array"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/josh-portfolio-app/josh-portfolio-app.html",
+			"settings":
+			{
+				"buffer_size": 1314,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jcamacho/Desktop/git/josh-portfolio",
+		"/C/Users/jcamacho/Desktop/git/josh-portfolio/src",
+		"/C/Users/jcamacho/Desktop/git/josh-portfolio/src/josh-portfolio-app"
+	],
+	"file_history":
+	[
+		"/C/Users/jcamacho/Desktop/git/mason-display/index.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/polymer.json",
+		"/C/Users/jcamacho/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jcamacho/Desktop/git/mason-display/data.json",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/azimuth-module.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/module-section.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/azimuth-table.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/my-app.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/field-data.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/button.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/module-col.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/src/module-header.html",
+		"/C/Users/jcamacho/Downloads/ajax-php-source-code/demo/php/ajax-followers.php",
+		"/C/xampp/htdocs/datapipe/getData.php",
+		"/C/xampp/htdocs/datapipe/connect.php",
+		"/C/Users/jcamacho/Desktop/git/mason-display/bower.json",
+		"/C/Users/jcamacho/Downloads/firehose_time_indexed_158.sql",
+		"/C/Users/jcamacho/Downloads/ajax-php-source-code/demo/php/ajax-follow.php",
+		"/C/Users/jcamacho/Desktop/git/mason-display/indexold.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/indexold-ant.html",
+		"/C/Users/jcamacho/Desktop/data.json",
+		"/C/Users/jcamacho/Desktop/datastuff",
+		"/C/Users/jcamacho/Desktop/examplepolymer/my-app/src/task-list.html",
+		"/C/Users/burgos/Documents/Roxana's Internship/DSN Think Dash/Populating DB with Fake data/populateDB_script.js",
+		"/C/Users/jcamacho/Desktop/examplepolymer/my-app/src/connect.php",
+		"/C/Users/jcamacho/Desktop/examplepolymer/my-app/src/getData.php",
+		"/C/Users/burgos/.v8flags.3.28.71.19.burgos.json",
+		"/C/Users/jcamacho/Desktop/git/Ajax-json-example/README.md",
+		"/C/Users/jcamacho/Desktop/examplepolymer/polymer-first-elements/demo/icon-toggle-demo.html",
+		"/C/Users/jcamacho/Desktop/git/mason-display/css/foundation-4-dsn.scss",
+		"/C/Users/jcamacho/Desktop/git/overview-display/css/foundation-4-dsn.scss",
+		"/C/Users/jcamacho/Downloads/fake_data_1222015-blob.bin",
+		"/C/Users/jcamacho/Desktop/git/DSN-Thinkdash-roxana/DSN-Thinkdash/public/js/bundle.js",
+		"/C/Users/jcamacho/Desktop/git/dsn-visual-language/css/foundation-4-dsn.scss",
+		"/C/Users/jcamacho/Downloads/node/example1/index.js",
+		"/C/Users/jcamacho/Desktop/git/dsn-visual-language/README.md",
+		"/C/Users/jcamacho/Downloads/node/example1/package.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"my-app",
+			"html",
+			"populate",
+			"base",
+			"console.log",
+			"log",
+			"response",
+			"seturl",
+			"M-1343",
+			"carrierfreq",
+			"servicest",
+			"mode",
+			"1161",
+			"this.newHeader",
+			"this.newHeader.isopen",
+			"console.log",
+			"console",
+			"this",
+			"yellow",
+			"},\n",
+			"i",
+			"}\n",
+			"row",
+			"sc-number",
+			"\"goodfrms18\"",
+			"goodfrms1",
+			"toInsert",
+			"el2",
+			"toApp",
+			"toAppend",
+			"toApp",
+			"hreftable",
+			"=\"-",
+			"azimuth",
+			"M-1513",
+			"\"config.last\"",
+			"config.last\"",
+			"config",
+			"o",
+			"RTLT",
+			"ClockCompnt",
+			"new_array",
+			"data",
+			"new_array",
+			"sth",
+			"DssList",
+			"Dss",
+			"SC-Number",
+			"burgos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\jcamacho\\Desktop\\git\\josh-portfolio"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/josh-portfolio-app/josh-portfolio-app.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
