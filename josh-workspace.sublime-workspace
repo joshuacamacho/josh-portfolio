@@ -123,7 +123,7 @@
 			"file": "src/josh-portfolio-app/josh-portfolio-app.html",
 			"settings":
 			{
-				"buffer_size": 1314,
+				"buffer_size": 1636,
 				"line_ending": "Windows"
 			}
 		}
@@ -165,9 +165,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/jcamacho/Desktop/git/josh-portfolio",
-		"/C/Users/jcamacho/Desktop/git/josh-portfolio/src",
-		"/C/Users/jcamacho/Desktop/git/josh-portfolio/src/josh-portfolio-app"
+		"/C/Users/jcamacho/Desktop/git/josh-portfolio"
 	],
 	"file_history":
 	[
@@ -211,7 +209,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -308,7 +306,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1314,
+						"buffer_size": 1636,
 						"regions":
 						{
 						},
@@ -337,7 +335,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -374,7 +372,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 50.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":

@@ -3,7 +3,7 @@
 <link rel="import" href="/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
 <link href="/bower_components/iron-image/iron-image.html" rel="import">
 <link rel="import" href="/bower_components/iron-flex-layout/iron-flex-layout-classes.html">
-
+<link rel="import" href="josh-header.html">
 <dom-module id="josh-portfolio-app">
   <template>
 
@@ -13,39 +13,11 @@
         height:2000px;
       }
       
-      iron-image{
-        width:120px;
-        height:120px;
-        border-radius: 50%;
-      }
-      #headerimgcont{
-          width:300px;
-        }
-      app-header{
-        background-color:#42A5F5;
-        height:300px;  
-        display: flex;
-        align-items: center;
-        flex-direction: flex-end;
-        --app-header-background-rear-layer: {
-          background-color: #FF5722;
-        };
-        
-      }
+      
     </style>
-
-    <app-header-layout fullbleed>
-      <app-header  condenses fixed effects="waterfall blend-background" >
-
-
-
-        <div id="headerimgcont" class="layout vertical center-justified end">
-          <iron-image sizing="cover" src="../../img/me.jpg"></iron-image>
-          <h1>Josh Camacho</h1>
-        </div>
-        
-      </app-header>
-    </app-header-layout>
+    
+    <josh-header></josh-header>
+    
   </template>
 
   <script>
