@@ -1,7 +1,0 @@
-{
-  "name": "josh-portfolio",
-  "short_name": "josh-portfolio",
-  "description": "Portfolio Site for Josh",
-  "start_url": "/",
-  "display": "standalone"
-}
