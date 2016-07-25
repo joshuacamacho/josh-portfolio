@@ -2874,8 +2874,8 @@ span.badge.new:after {
 
 @font-face {
   font-family: "Material-Design-Icons";
-  src: url("../font/material-design-icons/Material-Design-Icons.eot?-g7cqhn");
-  src: url("../font/material-design-icons/Material-Design-Icons.eot?#iefix-g7cqhn") format("embedded-opentype"), url("../font/material-design-icons/Material-Design-Icons.woff?-g7cqhn") format("woff"), url("../font/material-design-icons/Material-Design-Icons.ttf?-g7cqhn") format("truetype"), url("../font/material-design-icons/Material-Design-Icons.svg?-g7cqhn#Material-Design-Icons") format("svg");
+  src: url("../font/material-design-icons/material-design-icons.eot");
+  src: url("../font/material-design-icons/material-design-icons.eot") format("embedded-opentype"), url("../font/material-design-icons/material-design-icons.woff") format("woff"), url("../font/material-design-icons/material-design-icons.ttf") format("truetype"), url("../font/material-design-icons/material-design-icons.svg?-g7cqhn#material-design-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
